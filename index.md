@@ -1,5 +1,3 @@
-![Image](photo.png)
-
 ## Mikkel Rosholm
 
 Hello, I am a young responsible man with a knack for project development, problem solving and information technology. I am reliable, patient, creative and outgoing. At Medialogy I worked with a multitude of hands-on projects, so even though I am newly educated, I am very comfortable in working both individually and in groups towards a common goal.
@@ -57,3 +55,5 @@ At Ringkøbing Gymnasium I majored in Social Science, Math, Spanish, Danish and 
 ### Coach - Højmark
 
 Voluntary coach in the local gymnastics club. Mini and helping coach from 2007-2010. Head coach from 2011-2014.
+
+![Image](photo.png)
